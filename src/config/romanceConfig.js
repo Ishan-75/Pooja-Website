@@ -18,13 +18,13 @@ export const ROMANCE_CONFIG = {
     autoStartOnEnvelopeOpen: true,
 
     // Track details displayed in the player
-    songTitle: "Azhagiye ",
-    artistName: "A.R.Rahman",
+    songTitle: "Mozhiyae ",
+    artistName: "Sid SriRam",
 
     // Path to your audio file. 
     // You can place your song in: public/music/romantic-track.mp3
     // Supported formats: .mp3, .wav, .ogg, or any valid direct audio URL
-    audioSrc: "/music/romantic-track.mp3",
+    audioSrc: "/music/romantic-track.mpeg",
 
     // Optional album / cover art image path
     coverImage: "",
